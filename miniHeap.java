@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 public class miniHeap {
 
-    static private int heap[];
+    static public int heap[];
     static private int size;
     static private int index;
 
